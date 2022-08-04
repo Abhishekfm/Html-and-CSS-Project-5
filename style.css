@@ -21,8 +21,6 @@ body{
     padding: 15px 50px;
     font-family: 'Poppins';
 }
-.navbar div:first-child{
-}
 .list{
     display: flex;
     flex-direction: row;
@@ -185,9 +183,6 @@ body{
     }
     .hero-description{
         font-size: 15px;
-    }
-    .button-small{
-        /* display: none; */
     }
     .button-large{
         padding: 5px 10px;
