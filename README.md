@@ -8,7 +8,7 @@
 
 ![Project 5 Image](fourth.png)
 
-In this project I learned about that slector which have pseudo class with pseudo element both in the selector and pseudo element must be at the end.
+In this project I learned about that selector which has a pseudo-class with a pseudo-element both in the selector and pseudo-element must be at the end.
 
 [Visit this website](https://abhi-project-5.netlify.app/)
 
